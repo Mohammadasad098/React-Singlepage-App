@@ -16,7 +16,7 @@ const Navbar = () => {
         <nav className='flex justify-between items-center px-8 md:px-32 py-4'>
 
 
-          <img className='w-32' src="/public/img1.png" alt="Logo" />
+          <img className='w-32' src="./public/img1.png" alt="Logo" />
 
 
           <ul className='hidden xl:flex items-center gap-12 font-semibold text-base'>
